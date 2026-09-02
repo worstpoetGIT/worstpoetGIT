@@ -8,7 +8,7 @@
 <p align="center"><i>"The Worst Programmer" — trying to prove otherwise, one repo at a time.</i></p>
 
 <p align="center">
-  <a href="LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a>
+  <a href="https://linkedin.com/in/srikartadepalli96"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a>
   <a href="https://portafolio.fridayai.win"><img src="https://img.shields.io/badge/Portfolio-visit-000000?logo=safari&logoColor=white&style=flat-square"></a>
   <a href="mailto:srikartadepalli96@icloud.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?logo=gmail&logoColor=white&style=flat-square"></a>
 </p>
@@ -56,4 +56,4 @@ Open to full-time roles and internships in **cybersecurity and AI/ML engineering
 
 **Toolkit:** Python · TypeScript · FastAPI · Docker · Linux · React Native
 
-<p align="center"><sub>Let's talk — <a href="mailto:srikartadepalli96@icloud.com">email</a> or <a href="LINKEDIN_URL_HERE">LinkedIn</a>.</sub></p>
+<p align="center"><sub>Let's talk — <a href="mailto:srikartadepalli96@icloud.com">email</a> or <a href="https://linkedin.com/in/srikartadepalli96">LinkedIn</a>.</sub></p>
