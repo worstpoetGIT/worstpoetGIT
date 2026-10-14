@@ -9,8 +9,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/srikartadepalli96"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a>
-  <a href="https://worstpoetgit.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-visit-000000?logo=safari&logoColor=white&style=flat-square"></a>
+  <a href="https://portafolio.fridayai.win"><img src="https://img.shields.io/badge/Portfolio-visit-000000?logo=safari&logoColor=white&style=flat-square"></a>
   <a href="mailto:srikartadepalli96@icloud.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?logo=gmail&logoColor=white&style=flat-square"></a>
+</p>
+
+<p align="center">
+  <a href="https://portafolio.fridayai.win"><img src="assets/portfolio-preview.png" alt="Portfolio: scroll to drive a 1940 Ford up the hill, into space and back" width="640"></a>
+  <br><sub>Click to open the live portfolio, built with Three.js on a Raspberry Pi</sub>
 </p>
 
 I'm a Trinity College Dublin postgrad working across **cybersecurity, AI/ML, and systems** — most of what I build starts as "I need this for my own homelab" and ends up somewhere I didn't expect. Below are the three projects that best show how I actually work, not just what I know.
