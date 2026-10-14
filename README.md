@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/srikartadepalli96"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a>
-  <a href="https://portafolio.fridayai.win"><img src="https://img.shields.io/badge/Portfolio-visit-000000?logo=safari&logoColor=white&style=flat-square"></a>
+  <a href="https://worstpoetgit.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-visit-000000?logo=safari&logoColor=white&style=flat-square"></a>
   <a href="mailto:srikartadepalli96@icloud.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?logo=gmail&logoColor=white&style=flat-square"></a>
 </p>
 
