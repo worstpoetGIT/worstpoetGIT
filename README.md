@@ -35,8 +35,9 @@ I'm a Trinity College Dublin postgrad working across **cybersecurity, AI/ML, and
 **Then I took it further:** once the web dashboard worked, I built a native iOS companion app (**pidash-app** — Expo/React Native, real `UITabBarController` Liquid Glass via `NativeTabs` and `expo-glass-effect`, not a CSS approximation) so I could check on the server from my phone with the same "actually native" feel as a first-party Apple app.
 
 <p align="center">
-  <img src="assets/pidash-history.png" width="280" alt="pidash history chart on iOS">
-  <img src="assets/pidash-services.png" width="280" alt="pidash services tab on iOS">
+  <img src="assets/pidash-immich.png" width="260" alt="pidash Immich service sheet with CPU history">
+  <img src="assets/pidash-jellyfin.png" width="260" alt="pidash Jellyfin service sheet with CPU history">
+  <img src="assets/pidash-pihole.png" width="260" alt="pidash Pi-hole service sheet with CPU history">
 </p>
 
 **What I learned:** most of the hard problems weren't the metrics — they were the boring infrastructure around them. Getting a dev tunnel to survive flaky mobile networks, making a polling loop that fails gracefully instead of just hanging, matching a design system across a web app and a native app so neither feels like the "cheap" version. That's the part recruiters don't see in a skills list.
