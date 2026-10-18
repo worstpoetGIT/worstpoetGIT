@@ -58,7 +58,7 @@ Config isn't a side hobby for me, it's where I actually practice restraint: gett
 
 Open to full-time roles and internships in **cybersecurity and AI/ML engineering** — I like problems where something is actually broken and I have to find out why, whether that's a vulnerability, a model that's wrong in an interesting way, or a server that's quietly overheating. Based in Dublin, open to remote.
 
-**Background:** PG Dip, Trinity College Dublin (2024–2025) · BCA, Madras University (2019–2022) · ethical hacking internship, Zoho Education
+**Background:** PG Dip, Trinity College Dublin (2024–2025) · Bachelor of Computer Applications, Madras University (2019–2022) · Ethical Hacking Internship, Zoho Education
 
 **Toolkit:** Python · TypeScript · FastAPI · Docker · Linux · React Native
 
